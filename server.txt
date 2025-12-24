@@ -1,2 +1,2 @@
-AUTH=https://ctrl-collected-lands-achievement.trycloudflare.com
-DB=https://mistress-exposed-buyers-condos.trycloudflare.com
+AUTH=https://hricky-auth.loclx.io
+DB=https://hricky-db.loclx.io
