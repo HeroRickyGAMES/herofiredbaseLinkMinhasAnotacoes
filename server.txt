@@ -1,0 +1,2 @@
+AUTH=https://observer-privilege-ballet-applicants.trycloudflare.com
+DB=https://organisms-recorders-prompt-scores.trycloudflare.com
